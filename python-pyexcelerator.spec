@@ -3,7 +3,7 @@ Summary:	Excel 97+ files Python generator
 Summary(pl.UTF-8):	Pythonowy generator plików Excela 97+
 Name:		python-%{module}
 Version:	0.6.4.1
-Release:	3
+Release:	4
 License:	BSD
 Group:		Development/Languages/Python
 Source0:	http://dl.sourceforge.net/%{module}/%{module}-%{version}.tar.bz2
